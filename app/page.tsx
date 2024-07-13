@@ -1,12 +1,7 @@
-import { Footer, Navbar } from "@/components";
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div>
-      <Navbar />
-      <h1>Hellow</h1>
-      <Footer />
+      <h1>Hellowdsadasd</h1>
     </div>
   );
 }
